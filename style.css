@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    margin: 0.5% 0.5% 0 0.5%;
+}
+.StrangePicture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
+    gap: 15px;
+    background-color: turquoise;
+    padding: 5%;
+    margin: 3%;
+    border-radius: 15px;
+}
+#img-div{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.title-one{
+    color:tomato;
+    font-size:50px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    padding-top: 5%
+}
+p{
+    color:purple;
+    font-size: 20px;
+}
+#tribute-link{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-bottom: 55px;
+}
+li{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.last-text{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#tribute-info{
+    margin-top: -50px;
+    margin-bottom: 55px;
+    font-size: 25px;    
+}
+.total{
+    font-weight: bold;
+    margin-bottom: 55px;
+    padding: 5%;
+}
+
+#caption{
+    margin-top: -15px;
+}
+#main{
+    background-color: rgb(43, 122, 226);
+    margin: 2%;
+    border-radius: 5%;
+}
